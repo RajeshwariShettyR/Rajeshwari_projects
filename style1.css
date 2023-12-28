@@ -1,0 +1,51 @@
+.container{
+    height:1000px;
+    width:auto;
+    text-align:center;
+    background-color: grey;
+}
+
+#height,
+#weight {
+  width: 170px;
+  height: 35px;
+  margin-top: 30px;
+}
+
+#weight-guide {
+  margin-left: 75px;
+  margin-top: 25px;
+  font-size:25px;
+}
+#results {
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(241, 241, 241);
+  }
+button{
+    height:55px;
+    width:160px;
+    font-size: 30px;
+    border: solid 2px black;
+    padding:10px;
+    margin-top:20px;
+    border-radius:12px;
+    color:black;
+
+}
+label{
+    font-size:35px;
+    margin-right: 12px;
+}
+h1{
+    font-size:45px;
+}
+#message{
+    font-size:50px;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align:center;
+    margin-top:20px;
+}
